@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @halilccetin
+- 👋 Hi, I’m Halil
 - 👀 I am currently learning web programming.
 - 🌱 I'm studying computer programming at Ege University.
 - 💞️ I want to cooperate to improve myself in software fields.
-- 📫 How to reach me, you can find me on my instagram address. ' halilccetin '
+- 📫 How to reach me, you can find me on my instagram address. '@halilccetin '
 
 <!---
 halilccetin/halilccetin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
