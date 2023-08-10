@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Halil
 - 👀 I am currently learning web programming.
-- 🌱 I'm studying computer programming at Ege University.
+- 🌱 I graduated from Ege University Computer Programming.
 - 💞️ I want to cooperate to improve myself in software fields.
 - 📫 How to reach me, you can find me on my instagram address. '@halilccetin '
 
